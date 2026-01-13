@@ -1,5 +1,5 @@
 # 📚 POLYNIKI AI - Complete Documentation
-
+<a href="https://freeimage.host/"><img src="https://iili.io/f8Me0dv.png" alt="f8Me0dv.png" border="0" /></a>
 ## 📋 Table of Contents
 
 1. [Introduction](#introduction)
